@@ -12,7 +12,7 @@ Then I built the Fron-End from scratch using Vue.js with Vue-router
 * Node.js/Express.js
 * Heroku, Postman, Axios
 ### Tools
-* VS Code, Git, Chrome(DevTools)
+* VS Code, Git, Vue.js(DevTools), Chrome(DevTools)
 
 ## Project Screen Shots
 
