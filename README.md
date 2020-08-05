@@ -5,9 +5,9 @@ Then I built the Fron-End from scratch using Vue.js with Vue-router
 
 ## Technologies
 ### Front-End:
-* Vue.js
+* Vue.js with Vue-router
 * HTML/CSS/JavaScript
-* Vue-router, Vue-toasted, Axios 
+* Vue-toasted, Axios 
 ### Back-End:
 * Node.js/Express.js
 * Heroku, Postman 
