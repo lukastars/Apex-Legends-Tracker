@@ -1,6 +1,4 @@
 ## Apex-Legends-Tracker
-
-#### Example:
 A web application that tracks Apex Legends players status.
 
 ## Project Status
