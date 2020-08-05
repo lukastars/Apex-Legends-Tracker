@@ -7,12 +7,12 @@ Then I built the Fron-End from scratch using Vue.js with Vue-router
 ### Front-End:
 * Vue.js with Vue-router
 * HTML/CSS/JavaScript
-* Vue-toasted, Axios 
+* Vue-toasted 
 ### Back-End:
 * Node.js/Express.js
-* Heroku, Postman 
+* Heroku, Postman, Axios
 ### Tools
-* VS Code, Git
+* VS Code, Git, Chrome(DevTools)
 
 ## Project Screen Shots
 
