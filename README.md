@@ -15,6 +15,6 @@ A Full-Stack web application that tracks Apex Legends players status.
 ## Project Screen Shot(s)
 
 
-![alt text](https://imgur.com/L1NVOP8 "Logo Title Text 1")
+![alt text](https://imgur.com/L1NVOP8.gif "Logo Title Text 1")
 
 [ PRETEND OTHER SCREEN SHOT IS HERE ]
