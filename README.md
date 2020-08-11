@@ -1,4 +1,4 @@
-## Apex-Legends-Tracker[Live Preview](https://hidden-basin-62213.herokuapp.com)
+## Apex-Legends-Tracker [Live Preview](https://hidden-basin-62213.herokuapp.com)
 A Full-Stack web application that tracks Apex Legends players status.
 I got the API that show players data from [tracker.gg](https://tracker.gg/developers), Then I used Postman to test the API by createing HTTP/s requests and reading their responses.
 Then I built the Fron-End from scratch using Vue.js with Vue-router
