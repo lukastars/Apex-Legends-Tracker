@@ -17,4 +17,3 @@ Then I built the Fron-End from scratch using Vue.js with Vue-router
 ## Project Screen Shots
 
 ![alt text](https://imgur.com/a/rlv9YKB "Logo Title Text 1")
-
